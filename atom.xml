@@ -6,7 +6,7 @@
   <link href="https://blog.chatongxue.top/atom.xml" rel="self"/>
   
   <link href="https://blog.chatongxue.top/"/>
-  <updated>2024-10-28T19:12:21.220Z</updated>
+  <updated>2024-10-29T13:27:57.258Z</updated>
   <id>https://blog.chatongxue.top/</id>
   
   <author>
@@ -21,8 +21,17 @@
     <link href="https://blog.chatongxue.top/site-build.html"/>
     <id>https://blog.chatongxue.top/site-build.html</id>
     <published>2024-10-28T15:20:07.000Z</published>
-    <updated>2024-10-28T19:12:21.220Z</updated>
+    <updated>2024-10-29T13:27:57.258Z</updated>
     
+    <content type="html"><![CDATA[<p>你已经迷上Hexo，无法回头了…</p><!---more---><h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>之前的这个网站是用Typecho搭建的。Typecho作为一个动态网站框架，需要服务器、虚拟主机部署。<br>虚拟主机用的是<a class="link"   href="https://www.vpsor.cn/?userCode=sh26001" >硅云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>家的<a class="link"   href="https://www.vpsor.cn/doc/article/5ee97562afec2f554c29cff5" >博客主扶持计划 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，一个月5块钱。<br>但是给的是共享IP，这个段在8月天天吃核武器。<br><figure class="image-caption"><img                       lazyload                     src="/images/loading.svg"                     data-src="https://img.chatongxue.top/img/2024-10-29-283bb4db55f1cb2cb28845451423f413.webp"                      alt="八月好几次同IP段被打"                ><figcaption>八月好几次同IP段被打</figcaption></figure><br>所以…该换的就换了吧。<br>还有就是…<br>硅云你是一个特别好的宝宝w</p><h2 id="为什么是Hexo"><a href="#为什么是Hexo" class="headerlink" title="为什么是Hexo"></a>为什么是Hexo</h2><p>很简单，因为我<del>蔡</del>菜。<br>我也想用Hugo，但是choco安装命令我确实加上了-extended。<br>您猜怎么着，装到本地的就不是Extended版</p><h2 id="怎么装的"><a href="#怎么装的" class="headerlink" title="怎么装的"></a>怎么装的</h2><h3 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h3><p>先在电脑上安装 Git 和 Node.js 。</p><p>Git 官网: <a class="link"   href="https://git-scm.com/downloads" >https://git-scm.com/downloads <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Node.js 官网: <a class="link"   href="https://nodejs.org/zh-cn" >https://nodejs.org/zh-cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>安装 Git 和 Node.js 的时候一直下一步就行了。</p><p>由于国内特有的 Git 下载速度慢，你可以去镜像站上下载。比如清华大学TUNA协会的镜像站: <a class="link"   href="https://mirrors.tuna.tsinghua.edu.cn/" >https://mirrors.tuna.tsinghua.edu.cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,在<strong>获取下载链接-应用软件</strong>里找到适合你系统的Git。</p><h3 id="配置-Git"><a href="#配置-Git" class="headerlink" title="配置 Git"></a>配置 Git</h3><p>由于后续需要将博客利用Github部署，为的是让他人能够看到，需要配置Github。</p><h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p><strong>请先在电脑上下载Steam++工具箱并且如图配置之后使用。</strong><br><figure class="image-caption"><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.p-i.vip/46/20241029-6720dfe4df1dd.png"                      alt="平台加速勾选Github(最好全选)，加速设置选择System"                ><figcaption>平台加速勾选Github(最好全选)，加速设置选择System</figcaption></figure></p><p>1.登录<a class="link"   href="https://github.com/" >Github官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，选择右上角的Sign Up。<br>2.依次填入电子邮箱地址，密码和用户名。<br>3.进入电子邮箱，找到发送人为 Github的电子邮件，并且将邮件里的验证码填入打开的Github网址。<br>4.在接下来的Sign in Github 窗口中输入刚刚设置的电子邮件地址和密码，点击 Sign In 登录。<br>5.桌面右键选择Git Bash Here，输入以下代码：</p><div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;你设置的Github用户名&quot;</span><br><span class="line">git config --global user.name 你设置的Github电子邮箱地址</span><br></pre></td></tr></table></figure></div><h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，谢谢你，马云。</p><p>桌面右键，选择 <strong>Git Bash Here</strong>，然后输入：</p><div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.nmpmirror.com</span><br></pre></td></tr></table></figure></div><h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>执行上述步骤后，桌面右键选择Git Bash Here</p><div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你已经迷上Hexo，无法回头了…&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;h2 id=&quot;契机&quot;&gt;&lt;a href=&quot;#契机&quot; class=&quot;headerlink&quot; title=&quot;契机&quot;&gt;&lt;/a&gt;契机&lt;/h2&gt;&lt;p&gt;之前的这个网站是用Typecho搭建的。Typecho作为一个动</summary>
+      
     
     
     
@@ -37,10 +46,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.chatongxue.top/undefined.html"/>
-    <id>https://blog.chatongxue.top/undefined.html</id>
+    <link href="https://blog.chatongxue.top/hello-world.html"/>
+    <id>https://blog.chatongxue.top/hello-world.html</id>
     <published>2024-10-27T15:04:30.179Z</published>
-    <updated>2024-10-27T17:45:43.294Z</updated>
+    <updated>2024-10-29T12:21:15.445Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p><p>测试OPPO Sans 4.0配置<br><del>好像没成功？</del></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
     
@@ -57,10 +66,10 @@
   
   <entry>
     <title>暮色森林录完了</title>
-    <link href="https://blog.chatongxue.top/undefined.html"/>
-    <id>https://blog.chatongxue.top/undefined.html</id>
+    <link href="https://blog.chatongxue.top/twilight-forest-ended.html"/>
+    <id>https://blog.chatongxue.top/twilight-forest-ended.html</id>
     <published>2024-08-22T19:35:08.000Z</published>
-    <updated>2024-10-28T12:20:44.929Z</updated>
+    <updated>2024-10-29T12:21:30.898Z</updated>
     
     <content type="html"><![CDATA[<p>结束了？结束了……也许。<br>还没呢。</p><span id="more"></span><p>结束的只能是可能会有的众多MC生存实况中的一个，而不是MC之旅。<br>其实这个系列更多的是对曾经的一种怀念罢了，毕竟第七期的爱奇艺<span class="mask">（你没听错，我还有这条赛道）</span>评论区底下也有人想起了当年敖厂长的暮色之光。<figure class="image-caption"><img                       lazyload                     src="/images/loading.svg"                     data-src="https://s21.ax1x.com/2024/08/23/pAiv3IU.png"                      alt="想起来敖厂长的暮色森林（暮色之光）了"                ><figcaption>想起来敖厂长的暮色森林（暮色之光）了</figcaption></figure><br>那个视频的发布时间，是2015年6月23日。<br>我了解到这个模组并且第一看这个模组的时候比这晚一些，2020年那个最难熬的时刻在爱奇艺上看的搬运。那个UP的名字，是<a class="link"   href="https://space.bilibili.com/384032870" >叶子解说世界 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>比起伤今怀古更多的是告诉过去的那个少年，你也可以去那样做。<br>最后的结果不得而知，但是谁知道呢？<br>可能会在十几年后正中眉心吧。<br>但MC生存之旅？停不下来的。</p><p>在这里把我在第十期结尾的那段话补上。</p>  <div class="note-large cyan">    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">      <p>第十期结尾的话</p>    </div>    <div class="notel-content">      <p>写在后面：<br><br>之前在友商的视频评论下看见”想起来XXX的暮色森林了好怀念啊”的话，我还能想起来，当时认识这个模组的时候还是2020年最难熬的那段时候。</p><p><br>那个时候我的设备甚至连战神OPPO A5都算不上，还是在爱某艺上看的搬运</p><p><br>可能那个时候我意识到我也可以这么做一支视频</p><p><br>在那个最难熬的春天，我投稿了第一支破千播放的游戏视频</p><p><br>2020年投稿了第一支MC视频，去年8月10日正式开始做系列的MC生存实况，再到今年暑期的重新更新。</p><p><br>我见过沟槽的一个月50播放的视频，也见过随机一个激灵能破四千播放的</p><p><br>剪辑能力不足可以练，播放量不够可以慢慢攒</p><p><br>毕竟生命就像一盒巧克力，你永远不知道下一颗是什么味道的。</p><p><br>可能有些事是四年前的那个小学生想不到的，也可能是现在这个UP想不到的</p><p><br>感谢你能够看到这里。</p>    </div>  </div>]]></content>
     
