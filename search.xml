@@ -24,32 +24,79 @@
     <url>/site-build.html</url>
     <content><![CDATA[<p>你已经迷上Hexo，无法回头了…</p>
 <!---more--->
+
 <h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>之前的这个网站是用Typecho搭建的。Typecho作为一个动态网站框架，需要服务器、虚拟主机部署。<br>虚拟主机用的是<a class="link"   href="https://www.vpsor.cn/?userCode=sh26001" >硅云 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>家的<a class="link"   href="https://www.vpsor.cn/doc/article/5ee97562afec2f554c29cff5" >博客主扶持计划 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，一个月5块钱。<br>但是给的是共享IP，这个段在8月天天吃核武器。<br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.chatongxue.top/img/2024-10-29-283bb4db55f1cb2cb28845451423f413.webp"
                       alt="八月好几次同IP段被打"
-                ><figcaption>八月好几次同IP段被打</figcaption></figure><br>所以…该换的就换了吧。<br>还有就是…<br>硅云你是一个特别好的宝宝w</p>
+                ><figcaption>八月好几次同IP段被打</figcaption></figure><br>所以…该换的就换了吧。<br>还有就是…<br>硅云你是一个特别好的宝宝qwq</p>
 <h2 id="为什么是Hexo"><a href="#为什么是Hexo" class="headerlink" title="为什么是Hexo"></a>为什么是Hexo</h2><p>很简单，因为我<del>蔡</del>菜。<br>我也想用Hugo，但是choco安装命令我确实加上了-extended。<br>您猜怎么着，装到本地的就不是Extended版</p>
 <h2 id="怎么装的"><a href="#怎么装的" class="headerlink" title="怎么装的"></a>怎么装的</h2><h3 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h3><p>先在电脑上安装 Git 和 Node.js 。</p>
 <p>Git 官网: <a class="link"   href="https://git-scm.com/downloads" >https://git-scm.com/downloads <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Node.js 官网: <a class="link"   href="https://nodejs.org/zh-cn" >https://nodejs.org/zh-cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>安装 Git 和 Node.js 的时候一直下一步就行了。</p>
-<p>由于国内特有的 Git 下载速度慢，你可以去镜像站上下载。比如清华大学TUNA协会的镜像站: <a class="link"   href="https://mirrors.tuna.tsinghua.edu.cn/" >https://mirrors.tuna.tsinghua.edu.cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,在<strong>获取下载链接-应用软件</strong>里找到适合你系统的Git。</p>
+<p>由于国内特有的 Git 下载速度慢，你可以去镜像站上下载。比如清华大学TUNA协会的镜像站: <a class="link"   href="https://mirrors.tuna.tsinghua.edu.cn/" >https://mirrors.tuna.tsinghua.edu.cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ,在<strong>获取下载链接——应用软件</strong>里找到适合你系统的Git。</p>
+<p>感谢清华大学TUNA协会的各位，终于不用让我骂中国电信了。</p>
 <h3 id="配置-Git"><a href="#配置-Git" class="headerlink" title="配置 Git"></a>配置 Git</h3><p>由于后续需要将博客利用Github部署，为的是让他人能够看到，需要配置Github。</p>
-<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p><strong>请先在电脑上下载Steam++工具箱并且如图配置之后使用。</strong><br><figure class="image-caption"><img  
+<h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p><strong>请先在电脑上下载Steam++工具箱并且如图配置之后使用。</strong><br><strong>有能力的请使用梯子</strong><br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://i.p-i.vip/46/20241029-6720dfe4df1dd.png"
-                      alt="平台加速勾选Github(最好全选)，加速设置选择System"
-                ><figcaption>平台加速勾选Github(最好全选)，加速设置选择System</figcaption></figure></p>
+                      alt="平台加速勾选Github(最好全选)，加速设置建议选择System"
+                ><figcaption>平台加速勾选Github(最好全选)，加速设置建议选择System</figcaption></figure><br>（注：System模式下最好用完及时关闭，否则重启系统后访问网页时<strong>容易出现代理地址有误导致无法访问网页</strong>。此时请转到设置——网络和Internet——代理——手动设置代理中关闭“使用代理服务器”）</p>
 <p>1.登录<a class="link"   href="https://github.com/" >Github官网 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，选择右上角的Sign Up。<br>2.依次填入电子邮箱地址，密码和用户名。<br>3.进入电子邮箱，找到发送人为 Github的电子邮件，并且将邮件里的验证码填入打开的Github网址。<br>4.在接下来的Sign in Github 窗口中输入刚刚设置的电子邮件地址和密码，点击 Sign In 登录。<br>5.桌面右键选择Git Bash Here，输入以下代码：</p>
 <div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;你设置的Github用户名&quot;</span><br><span class="line">git config --global user.name 你设置的Github电子邮箱地址</span><br></pre></td></tr></table></figure></div>
-
-<h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，谢谢你，马云。</p>
+<p>6.生成SSH密钥文件</p>
+<div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;Github电子邮箱地址&quot;</span><br></pre></td></tr></table></figure></div>
+<p>生成好的密钥目录一般是 **C:\用户\电脑用户名.ssh\id_rsa.pub。<br>右键点击——使用记事本打开——复制id_rsa.pub里的所有内容。<br>7.配置Github上的密钥<br>Github点击右上角头像，点击Settings——SSH and GPG Keys——New SSH Key，Title部分随便填，Key部分把刚复制上的 <strong>id_rsa.pub</strong> 里的部分粘贴上去，点击Add SSH Key。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.p-i.vip/46/20241030-67212a03ec7ec.png"
+                      alt="如图所示"
+                ><figcaption>如图所示</figcaption></figure></p>
+<h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，<del>马云你听我说</del></p>
 <p>桌面右键，选择 <strong>Git Bash Here</strong>，然后输入：</p>
 <div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">npm config set registry https://registry.nmpmirror.com</span><br></pre></td></tr></table></figure></div>
-<h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>执行上述步骤后，桌面右键选择Git Bash Here</p>
-<div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure></div>]]></content>
+<h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>执行上述步骤后，桌面右键选择Git Bash Here，执行以下命令。</p>
+<div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">npm i hexo-cil -g</span><br></pre></td></tr></table></figure></div>
+<p>然后选择一个文件夹建设博客，并且移动到该文件夹</p>
+<div class="highlight-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">cd 文件夹路径</span><br></pre></td></tr></table></figure></div>
+<p>执行以下命令来初始化Hexo</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></div>
+<p>执行后显示应该如下所示。</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">INFO  Cloning hexo-starter https://github.com/hexojs/hexo-starter.git</span><br><span class="line">INFO  Install dependencies</span><br><span class="line">INFO  Start blogging with Hexo!</span><br></pre></td></tr></table></figure></div>
+<p>然后执行 npm install</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ npm install</span><br><span class="line"></span><br><span class="line">added 1 package in 820ms</span><br><span class="line"></span><br><span class="line">23 packages are looking for funding</span><br><span class="line">  run `npm fund` for details</span><br></pre></td></tr></table></figure></div>
+<p>此时一个正常的流程如下图右半部分所示，测试文件夹的文件结构如左图所示的话，恭喜你，你的Hexo站点建立成功力！<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.p-i.vip/46/20241030-67212e64b35b9.png"
+                      alt="左部分为站点结构，右半部分为流程"
+                ><figcaption>左部分为站点结构，右半部分为流程</figcaption></figure></p>
+<h2 id="配置主题"><a href="#配置主题" class="headerlink" title="配置主题"></a>配置主题</h2><p>建立成功后，就可以执行 <strong>hexo s</strong> 查看你的站点了。</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br><span class="line">INFO  Validating config</span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.</span><br></pre></td></tr></table></figure></div>
+<p>其中的 <strong>at <a class="link"   href="http://localhost:4000/" >http://localhost:4000 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong> 意味该站点现在运行在 localhost:4000 ，在浏览器地址栏输入这串地址就可以看到你网站的效果了。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.p-i.vip/46/20241030-672131ef3b2d5.png"
+                      alt="默认主题效果"
+                ><figcaption>默认主题效果</figcaption></figure><br>挺好的，就是多少有点欣赏不来。</p>
+<h3 id="如何选择主题"><a href="#如何选择主题" class="headerlink" title="如何选择主题"></a>如何选择主题</h3><p>这个属于见仁见智的选项，网上搜索 hexo主题推荐 或者去Github里搜 Hexo theme就有一大堆。通常主题的Github仓库里的README文档里都提供了预览网址，点击即可查看这款主题的实际效果。<br>这里可以挑几个我见过的不错的，但是还请注意：<strong>只有适合你的才是最好的</strong></p>
+<ul>
+<li>Fluid: 基于Material Design, MD爱好者落泪。<br><a class="link"   href="https://hexo.fluid-dev.com/" >Fluid预览页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://hexo.fluid-dev.com/" >Fluid主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Butterfly: Star数量与Fluid不相上下，曾经使用过移植到Typecho版本，感觉不错。美化和魔改教程很多。<br> <a class="link"   href="https://butterfly.js.org/" >Butterfly预览页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://github.com/jerryc127/hexo-theme-butterfly" >Butterfly主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>NexT: 有点太简洁了，个人不太习惯，喜欢简洁的可以去试一试。<br> <a class="link"   href="httpps://theme-next.js.org" >Next预览页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://github.com/next-theme/hexo-theme-next" >NexT主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Stellar: 主题最高支持到Hexo 7.0.0，但是已经Hexo 7.3.0了。<br> 好在网上有教程教你如何安装指定版本的Hexo: <a class="link"   href="http://www.blog.lekshome.top/2024/03/07/hexo-an-zhuang-zhi-ding-ban-ben/" >Hexo安装指定版本 - Lek的小站 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br> <a class="link"   href="https://xaoxuu.com/wiki/stellar/" >Stellar预览页 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://github.com/xaoxuu/hexo-theme-stellar" >Stellar主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Anzhiyu (安知鱼) : 功能最多，界面最好看。特别是演示站的About界面，*的绝了。<br> 可能对最新版Hexo的支持也不是太好？<br> <a class="link"   href="https://blog.anheyu.com/" >安知鱼演示站 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu" >安知鱼主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Redefine: 本站目前在用的主题，简约大气。<br> <a class="link"   href="https://redefine.ohevan.com/" >Redefine演示站点 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> | <a class="link"   href="https://github.com/EvanNotFound/hexo-theme-redefine" >Redefine主题仓库 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<details class="[cyan]" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>[发癫文学 (没有迫害各个主题的意思) ] </summary>
+              <div class='content'>
+              <p>Hexo主题简直就是一个乙游大世界，想要美化多有Butterfly，想要功能多样的有安知鱼，如果想要我们的简约之美还有Redefine，要我说你们这帮Hexo用户吃的也是太好了，今天我已经垂直Create a repo了 </p>
+              </div>
+            </details>
+
+<h3 id="如何配置主题"><a href="#如何配置主题" class="headerlink" title="如何配置主题"></a>如何配置主题</h3>]]></content>
       <categories>
         <category>技术</category>
       </categories>
