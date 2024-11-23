@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chatongxue.top/man-jiao-wen-hua.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chatongxue.top/undefined.html</loc>
     
     <lastmod>2024-11-23</lastmod>
@@ -137,20 +146,6 @@
 
   
   <url>
-    <loc>https://blog.chatongxue.top/tags/hexo/</loc>
-    <lastmod>2024-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chatongxue.top/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2024-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chatongxue.top/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -165,27 +160,34 @@
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/tags/%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2024-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://blog.chatongxue.top/tags/hexo/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>https://blog.chatongxue.top/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chatongxue.top/tags/%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>https://blog.chatongxue.top/categories/%E6%B8%B8%E6%88%8F/</loc>
@@ -196,6 +198,13 @@
   
   <url>
     <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
