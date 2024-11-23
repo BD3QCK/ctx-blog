@@ -151,6 +151,13 @@
   </url>
   
   <url>
+    <loc>https://blog.chatongxue.top/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chatongxue.top/tags/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,13 +178,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://blog.chatongxue.top/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2024-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -188,14 +188,14 @@
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
