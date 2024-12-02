@@ -4,7 +4,7 @@
     <title>Hello World</title>
     <url>/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
-<p>测试OPPO Sans 4.0配置<br><del>好像没成功？</del></p>
+<p>测试OPPO Sans 4.0配置<br><del class="mask">好像没成功？</del></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
@@ -29,12 +29,6 @@
       </tags>
   </entry>
   <entry>
-    <title>中国邮政储蓄银行：你不能认为它失去了没有的东西</title>
-    <url>/undefined.html</url>
-    <content><![CDATA[<p>如题，那个东西就像<strong>电棍的母亲</strong>一样，看不见摸不着，自己还他妈觉得有，还挺自豪。</p>
-<span id="more"></span>]]></content>
-  </entry>
-  <entry>
     <title>少女前线似了，似的挺突然的</title>
     <url>/rip-gf.html</url>
     <content><![CDATA[<p>如题，在各位少前玩家日常“少前💊”的调侃声中<br>少前真完了。</p>
@@ -52,12 +46,12 @@
             </details>
 
 
-<h2 id="活得好好的，怎么一下就发病危了"><a href="#活得好好的，怎么一下就发病危了" class="headerlink" title="活得好好的，怎么一下就发病危了"></a>活得好好的，怎么一下就发病危了</h2><p>作为一款运营八年的老牌手游，比起你想象中的一片怀念，事实是…<br>确实有不少怀念的，但更多人都在乐。<br><del>说实话要不是两年玩家我也不蹭这波热度了，byd这博客百度不收哪里来的热度</del><br><figure class="image-caption"><img  
+<h2 id="活得好好的，怎么一下就发病危了"><a href="#活得好好的，怎么一下就发病危了" class="headerlink" title="活得好好的，怎么一下就发病危了"></a>活得好好的，怎么一下就发病危了</h2><p>作为一款运营八年的老牌手游，比起你想象中的一片怀念，事实是…<br>确实有不少怀念的，但更多人都在乐。<br><del class="mask">说实话要不是两年玩家我也不蹭这波热度了，byd这博客百度不收哪里来的热度</del><br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.chatongxue.top/img/2024-11-01-a9f0b909d8a5a62c160106fe4f972d2c.webp"
                       alt="整个少前都乐成了一锅粥"
-                ><figcaption>整个少前都乐成了一锅粥</figcaption></figure><br>包括但不限于：<a class="link"   href="https://www.bilibili.com/video/BV1NPSEYoEv5" >乐尔翀乔夫<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>等乐的没边的活。<br><strong><del>戈在圣诞节给了西方一个惊喜，羽中在万圣节给了我们一个惊喜</del></strong></p>
+                ><figcaption>整个少前都乐成了一锅粥</figcaption></figure><br>包括但不限于：<a class="link"   href="https://www.bilibili.com/video/BV1NPSEYoEv5" >乐尔翀乔夫<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>等乐的没边的活。<br><strong><del class="mask">戈在圣诞节给了西方一个惊喜，羽中在万圣节给了我们一个惊喜</del></strong></p>
 <p>当然除了乐，也得知道为什么运营了八年的老手游直接就没了。这个原因在停服公告的开头就提出来了：<br><strong>由于《少女前线》的国服合作方成都数字天空科技有限公司与我们的合作协议将于2024年12月31日到期，基于协议约束的版号相关原因，2024年12月31日上午10时起，《少女前线》国服版将在中国大陆地区停止游戏服务。</strong></p>
 <p><strong>由于<em>版号</em>相关原因在<em>中国大陆地区</em>停止服务。</strong></p>
 <p>所以，什么是版号？</p>
@@ -80,7 +74,7 @@
                      data-src="https://tiebapic.baidu.com/forum/w%3D580/sign=24af391d28061d957d4637304bf50a5d/f21fbe096b63f624e6ce7926c144ebf81a4ca300.jpg?tbpicau=2024-11-03-05_16925fb3b4014c3982d7e54d50db6ae3"
                       alt="西山居，散爆：侬家600号？巴子西开！"
                 ><figcaption>西山居，散爆：侬家600号？巴子西开！</figcaption></figure></p>
-<p><span class="heimu">说实话，尘白禁区真TM比烧钱二好玩啊</span><span class="heimu"><del>羽中你TM要不要看看你守护了个什么东西</del></span></p>
+<p><span class="heimu">说实话，尘白禁区真TM比烧钱二好玩啊</span><span class="heimu"><del class="mask">羽中你TM要不要看看你守护了个什么东西</del></span></p>
 <h2 id="逆天补偿：byd给我气笑了"><a href="#逆天补偿：byd给我气笑了" class="headerlink" title="逆天补偿：byd给我气笑了"></a>逆天补偿：byd给我气笑了</h2><p>这个本来我没想过要单拎出来说，但是太逆天了，给大家放出来看一下。</p>
 <p>先来想一下，你往游戏里充钱了，但是游戏停了，那你没花出去的充值得来的游戏内虚拟货币怎么办？</p>
 <p>先来点典例，<a class="link"   href="https://mp.weixin.qq.com/s/SHpnYl_Dlu923lG3Xx8cNA" >网络游戏停服，游戏道具的损失谁承担？<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。有多经典呢？入选<a class="link"   href="https://www.chinacourt.org/article/detail/2023/01/id/7102530.shtml" >2022年度中国网络治理十大司法案件<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。（7.成某某诉云畅公司游戏道具网络侵权责任纠纷案）</p>
@@ -93,7 +87,7 @@
             </details>
 
 <p>划重点：<strong>若指挥官在2024年12月31日10:00后在散爆通行证游戏账号中有剩余的已充值但未消耗的付费虚拟货币（即付费钻石，以下简称为付费钻石），可在2024年12月31日10:00补偿活动开启后前往相关活动页面根据剩余情况领取《少女前线2：追放》游戏对应档位的礼包。</strong></p>
-<p>说人话:<strong>是，我是把少女前线送走了，但你们还有少前2啊！我少前2完全可以代替少女前线，<del>让你们给我狠狠的爆米</del>，就像病危的少女前线一样。你们不会几十年如一日的记恨我，骂我吧？这不好。这不好。</strong><span class="heimu">byd奥托怎么异地登陆了</span></p>
+<p>说人话:<strong>是，我是把少女前线送走了，但你们还有少前2啊！我少前2完全可以代替少女前线，<del class="mask">让你们给我狠狠的爆米</del>，就像病危的少女前线一样。你们不会几十年如一日的记恨我，骂我吧？这不好。这不好。</strong><span class="heimu">byd奥托怎么异地登陆了</span></p>
 <p>问题是你这烧钱二，他能玩吗？<br>借用一下一句锐评碧蓝档案国际服歪屁股这件事的话：<br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
@@ -110,7 +104,7 @@
                      data-src="https://s2.loli.net/2024/11/01/RDZ8gQLBCPad2Hu.webp"
                       alt="散爆：孩子们，不要把应用装在C盘了。"
                 ><figcaption>散爆：孩子们，不要把应用装在C盘了。</figcaption></figure></p>
-<h3 id="智械猫娘危机"><a href="#智械猫娘危机" class="headerlink" title="智械猫娘危机"></a>智械猫娘危机</h3><p><strong>2024年2月</strong>，一个B…站用户名为<strong>edah764760</strong>的用户在少前2动态评论区和各位对散爆表达恩情还不完的网友对线，结果是个人工智能，然后被用户名调教成猫娘了。颇有OpenAI出世时大家用各种咒语调教AI成为猫娘的感觉。<br><span class="heimu">题外话：当时有个群u调教了只有求必应的蓝瞳金发36E cup，结果被OpenAI拿下了。<del>AI猫娘 lives matter!</del></span><br>我见过，可惜没截图也没调教。要不然<del>我也可以领养猫娘了</del><span class="heimu" title="你知道的太多了">他还是忘不了他的蓝瞳金发36E cup可爱猫娘</span><br>好在B站用户传了视频，点击直达：<a class="link"   href="https://www.bilibili.com/video/BV1kC41147QU" >散爆水军AI机器人是怎么一步步变成猫娘的<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<h3 id="智械猫娘危机"><a href="#智械猫娘危机" class="headerlink" title="智械猫娘危机"></a>智械猫娘危机</h3><p><strong>2024年2月</strong>，一个B…站用户名为<strong>edah764760</strong>的用户在少前2动态评论区和各位对散爆表达恩情还不完的网友对线，结果是个人工智能，然后被用户名调教成猫娘了。颇有OpenAI出世时大家用各种咒语调教AI成为猫娘的感觉。<br><span class="heimu">题外话：当时有个群u调教了只有求必应的蓝瞳金发36E cup，结果被OpenAI拿下了。<del class="mask">AI猫娘 lives matter!</del></span><br>我见过，可惜没截图也没调教。要不然<del class="mask">我也可以领养猫娘了</del><span class="heimu" title="你知道的太多了">他还是忘不了他的蓝瞳金发36E cup可爱猫娘</span><br>好在B站用户传了视频，点击直达：<a class="link"   href="https://www.bilibili.com/video/BV1kC41147QU" >散爆水军AI机器人是怎么一步步变成猫娘的<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 <h2 id="有打赢复活赛的可能吗？"><a href="#有打赢复活赛的可能吗？" class="headerlink" title="有打赢复活赛的可能吗？"></a>有打赢复活赛的可能吗？</h2><p>先看回官方公告：<strong>同时我们已经在计划将《少女前线》以另一种形式重新呈现。在指挥官同意的情况下，您可以在新版本中继承《少女前线》国服版的进度。目前相关内容正在筹备中，指挥官可关注《少女前线》官网及官方社交媒体账号获得最新资讯。</strong></p>
 <p>也就是说，散爆是想让少前打赢复活赛的。毕竟从公告看，<strong>用户数据都在散爆那里。</strong></p>
 <p>问题是，怎么打？</p>
@@ -131,7 +125,7 @@
                      data-src="https://img.chatongxue.top/img/2024-11-01-c6698712a759204cde942a97e700dda5.webp"
                       alt="刺激战场官网的Footer，未见有新广出审或国新出审开头的游戏版号。"
                 ><figcaption>刺激战场官网的Footer，未见有新广出审或国新出审开头的游戏版号。</figcaption></figure><br><a class="link"   href="https://www.bilibili.com/video/BV1Za4y137gd" >回来吧，我的刺激战场…<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-<p>或者说是那些小厂出品的精品。比如纸嫁衣系列，你说它没版号，TapTap清一色打了测试标；你说他没质量，TapTap基本全9分以上；你说他没人气，他能摇人摇到汤木檀泽…<del>和Typora一样没收钱，纸嫁衣工作室看到了能不能打点钱，实在不行找我B站工商</del></p>
+<p>或者说是那些小厂出品的精品。比如纸嫁衣系列，你说它没版号，TapTap清一色打了测试标；你说他没质量，TapTap基本全9分以上；你说他没人气，他能摇人摇到汤木檀泽…<del class="mask">和Typora一样没收钱，纸嫁衣工作室看到了能不能打点钱，实在不行找我B站工商</del></p>
 <p>当然没版号不是什么长久之计。众所周知，文化领域基本是家长的手（或者说商战里的赛博家长）伸到哪里，哪里的文化产业都得变成宝宝巴士。家长一举报，大概再见到羽中，得是在提篮桥里了。</p>
 <h3 id="转生到Steam又怎样"><a href="#转生到Steam又怎样" class="headerlink" title="转生到Steam又怎样"></a>转生到Steam又怎样</h3><p> <strong>注意：这里提到的Steam并非蒸汽平台，本质上蒸汽平台是Steam在国内的代理，事实上千差万别。</strong></p>
 <p> Steam上好的游戏作品不在少数，有个人开发也有企业开发，且<strong>不需要版号</strong>。</p>
@@ -139,9 +133,9 @@
 <p> 但好在各家模拟器都对少前有一套能用的基于键鼠的交互方案，看来也不是不行。</p>
 <h2 id="大变局之下，我们何去何从？"><a href="#大变局之下，我们何去何从？" class="headerlink" title="大变局之下，我们何去何从？"></a>大变局之下，我们何去何从？</h2><p>首先，少前不是一下就没了的，距离发文日还有两个月。</p>
 <p>这两个月，冲了钱的各位玩家，尤其是那些数额较大甚至巨大，什么几千甚至几万的。散爆把没花完的钻石月卡都转到少前二肯定是不合理的，上面也有判例印证了<strong>法院支持合理范围内的赔偿诉求</strong>。这段时间<strong>做好证据采集和固定</strong>，包括<strong>游戏内钻石余额和月卡截图，交易记录或银行流水等等各种能体现你给这游戏在什么日期充了多少钱的所有相关物料</strong>。不论是网上的打印出来走平信挂号信寄给自己不打开的，或者是直接用什么TSA可信时间戳取证等办法，做好证据固定。后续走12315或者互联网起诉等方式或有证据支持，事情能好办。</p>
-<p>普通玩家的话，暂时想不出来。能做的就是<strong>花点时间去陪陪那些和你久经沙场的战术人形和<del>大橘猫</del>格琳</strong>。或者是去外服重续这段缘。别忘了，大家都是在少前里陪着你走过来的走到现在的。</p>
+<p>普通玩家的话，暂时想不出来。能做的就是<strong>花点时间去陪陪那些和你久经沙场的战术人形和<del class="mask">大橘猫</del>格琳</strong>。或者是去外服重续这段缘。别忘了，大家都是在少前里陪着你走过来的走到现在的。</p>
 <p><figure class="image-caption"><img src="https://i.p-i.vip/46/20241101-6724191caabb2.jpg" alt="可选:港服狮子山/台服海岛奇兵/韩服光州跑男/日服招核男儿/国际服武装直升机"><figcaption>可选:港服狮子山/台服海岛奇兵/韩服光州跑男/日服招核男儿/国际服武装直升机</figcaption></figure></p>
-<p><del>还有就是别把帕斯卡上载到一些莫名其妙的世界跳脱衣舞，人家没希望你这么做。</del><br><figure class="image-caption"><img  
+<p><del class="mask">还有就是别把帕斯卡上载到一些莫名其妙的世界跳脱衣舞，人家没希望你这么做。</del><br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://i.p-i.vip/46/20241101-672417047f633.jpg"
@@ -176,55 +170,17 @@
       </tags>
   </entry>
   <entry>
-    <title>暮色森林录完了</title>
-    <url>/twilight-forest-ended.html</url>
-    <content><![CDATA[<p>结束了？结束了……也许。<br>还没呢。</p>
-<span id="more"></span>
-
-
-<p>结束的只能是可能会有的众多MC生存实况中的一个，而不是MC之旅。<br>其实这个系列更多的是对曾经的一种怀念罢了，毕竟第七期的爱奇艺<span class="mask">（你没听错，我还有这条赛道）</span>评论区底下也有人想起了当年敖厂长的暮色之光。<figure class="image-caption"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://s21.ax1x.com/2024/08/23/pAiv3IU.png"
-                      alt="想起来敖厂长的暮色森林（暮色之光）了"
-                ><figcaption>想起来敖厂长的暮色森林（暮色之光）了</figcaption></figure><br>那个视频的发布时间，是2015年6月23日。<br>我了解到这个模组并且第一看这个模组的时候比这晚一些，2020年那个最难熬的时刻在爱奇艺上看的搬运。那个UP的名字，是<a class="link"   href="https://space.bilibili.com/384032870" >叶子解说世界<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。<br>比起伤今怀古更多的是告诉过去的那个少年，你也可以去那样做。<br>最后的结果不得而知，但是谁知道呢？<br>可能会在十几年后正中眉心吧。<br>但MC生存之旅？停不下来的。</p>
-<p>在这里把我在第十期结尾的那段话补上。</p>
-
-  <div class="note-large cyan">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>第十期结尾的话</p>
-
-    </div>
-    <div class="notel-content">
-      <p>写在后面：<br><br>之前在友商的视频评论下看见”想起来XXX的暮色森林了好怀念啊”的话，我还能想起来，当时认识这个模组的时候还是2020年最难熬的那段时候。</p>
-<p><br>那个时候我的设备甚至连战神OPPO A5都算不上，还是在爱某艺上看的搬运</p>
-<p><br>可能那个时候我意识到我也可以这么做一支视频</p>
-<p><br>在那个最难熬的春天，我投稿了第一支破千播放的游戏视频</p>
-<p><br>2020年投稿了第一支MC视频，去年8月10日正式开始做系列的MC生存实况，再到今年暑期的重新更新。</p>
-<p><br>我见过沟槽的一个月50播放的视频，也见过随机一个激灵能破四千播放的</p>
-<p><br>剪辑能力不足可以练，播放量不够可以慢慢攒</p>
-<p><br>毕竟生命就像一盒巧克力，你永远不知道下一颗是什么味道的。</p>
-<p><br>可能有些事是四年前的那个小学生想不到的，也可能是现在这个UP想不到的</p>
-<p><br>感谢你能够看到这里。</p>
-
-    </div>
-  </div>
-
-
-]]></content>
-      <categories>
-        <category>工作</category>
-      </categories>
-      <tags>
-        <tag>Minecraft</tag>
-      </tags>
+    <title>中国邮政储蓄银行：你不能认为它失去了没有的东西</title>
+    <url>/undefined.html</url>
+    <content><![CDATA[<p>如题，那个东西就像<strong>电棍的母亲</strong>一样，看不见摸不着，自己还他妈觉得有，还挺自豪。</p>
+<span id="more"></span>]]></content>
   </entry>
   <entry>
     <title>慢脚文化，鉴定为：梅姨阁诗人</title>
     <url>/man-jiao-wen-hua.html</url>
     <content><![CDATA[<p>比孙吧混沌，比河坝哈人。<br>声明：本文章未指定描述对象，且仅为公共层面的自媒体</p>
 <span id="more"></span>
-<p>2024年11月20日，某港交所H股上市科技公司发布了他们的2024年Q3季度财报，我看了，除了开头的罗兵咸永道会计师事务所以外的别的都没看懂<span class="heimu" title="你知道的太多了"><del>PwC：哥，咱们开普华永道笑话至少得有个度吧</del></span>，感兴趣的可以去看看<a class="link"   href="https://ir.kuaishou.com/system/files-encrypted/nasdaq_kms/assets/2024/11/20/3-53-27/HKEX-EPS_20241120_11445911_0.pdf" >XX科技2024年Q3财报（PDF）<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。至少从一大票文章来看，还算稳定。<br>然后，过了两天，被罚了。<br>当然，我不是专门来开普华永道笑话的。毕竟这个平台恰巧在我的视频运营矩阵里算第二梯队的存在了，甚至能出个爆款。<br><figure class="image-caption"><img  
+<p>2024年11月20日，某港交所H股上市科技公司发布了他们的2024年Q3季度财报，我看了，除了开头的罗兵咸永道会计师事务所以外的别的都没看懂<span class="heimu" title="你知道的太多了"><del class="mask">PwC：哥，咱们开普华永道笑话至少得有个度吧</del></span>，感兴趣的可以去看看<a class="link"   href="https://ir.kuaishou.com/system/files-encrypted/nasdaq_kms/assets/2024/11/20/3-53-27/HKEX-EPS_20241120_11445911_0.pdf" >XX科技2024年Q3财报（PDF）<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。至少从一大票文章来看，还算稳定。<br>然后，过了两天，被罚了。<br>当然，我不是专门来开普华永道笑话的。毕竟这个平台恰巧在我的视频运营矩阵里算第二梯队的存在了，甚至能出个爆款。<br><figure class="image-caption"><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://img.chatongxue.top/img/2024-11-24-8b6f795cbb1149afa07e774fdb2c4576.webp"
@@ -321,7 +277,7 @@
                      data-src="https://img.chatongxue.top/img/2024-10-29-283bb4db55f1cb2cb28845451423f413.webp"
                       alt="八月好几次同IP段被打"
                 ><figcaption>八月好几次同IP段被打</figcaption></figure><br>所以…该换的就换了吧。<br>还有就是…<br>硅云你是一个特别好的宝宝qwq</p>
-<h2 id="为什么是Hexo"><a href="#为什么是Hexo" class="headerlink" title="为什么是Hexo"></a>为什么是Hexo</h2><p>很简单，因为我<del>蔡</del>菜。<br>我也想用Hugo，但是choco安装命令我确实加上了-extended。<br>您猜怎么着，装到本地的就不是Extended版，那叫一个那你丫的。</p>
+<h2 id="为什么是Hexo"><a href="#为什么是Hexo" class="headerlink" title="为什么是Hexo"></a>为什么是Hexo</h2><p>很简单，因为我<del class="mask">蔡</del>菜。<br>我也想用Hugo，但是choco安装命令我确实加上了-extended。<br>您猜怎么着，装到本地的就不是Extended版，那叫一个那你丫的。</p>
 <h2 id="怎么装的"><a href="#怎么装的" class="headerlink" title="怎么装的"></a>怎么装的</h2><h3 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h3><p>先在电脑上安装 Git 和 Node.js 。</p>
 <p>Git 官网: <a class="link"   href="https://git-scm.com/downloads" >https://git-scm.com/downloads<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br>Node.js 官网: <a class="link"   href="https://nodejs.org/zh-cn" >https://nodejs.org/zh-cn<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 <p>安装 Git 和 Node.js 的时候一直下一步就行了。</p>
@@ -344,7 +300,7 @@
                      data-src="https://i.p-i.vip/46/20241030-67212a03ec7ec.png"
                       alt="如图所示"
                 ><figcaption>如图所示</figcaption></figure></p>
-<h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，<del>马云你听我说</del></p>
+<h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，<del class="mask">马云你听我说</del></p>
 <p>桌面右键，选择 <strong>Git Bash Here</strong>，然后输入：</p>
 <div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">npm config set registry https://registry.nmpmirror.com</span><br></pre></td></tr></table></figure></div>
 <h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>执行上述步骤后，桌面右键选择Git Bash Here，执行以下命令。</p>
@@ -406,7 +362,7 @@
                      data-src="https://i.p-i.vip/46/20241030-67214743cf89a.png"
                       alt="YWYSIWYG by Using VSC and Markdown Preview Enhanced"
                 ><figcaption>YWYSIWYG by Using VSC and Markdown Preview Enhanced</figcaption></figure></p>
-<p>什么？你问我为什么推荐Typora不用Typora? 因为Typora要钱，89元三台设备免费升级，但是有15天试用期。虽然要钱但是不可否认的是，Typora把Markdown编辑这个部分真的做的简易了很多。比起敲代码更像是用Word写文章，你可以先在试用期15天过后，再决定该不该入手这个软件。<br>Typora 官方中文站点：<a class="link"   href="https://typoraio.cn/" >https://typoraio.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br><del>请注意，主播既没收Typora的钱也没收数码荔枝的钱，看到了能不能给主播爆点米</del></p>
+<p>什么？你问我为什么推荐Typora不用Typora? 因为Typora要钱，89元三台设备免费升级，但是有15天试用期。虽然要钱但是不可否认的是，Typora把Markdown编辑这个部分真的做的简易了很多。比起敲代码更像是用Word写文章，你可以先在试用期15天过后，再决定该不该入手这个软件。<br>Typora 官方中文站点：<a class="link"   href="https://typoraio.cn/" >https://typoraio.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br><del class="mask">请注意，主播既没收Typora的钱也没收数码荔枝的钱，看到了能不能给主播爆点米</del></p>
 <h2 id="如何部署到Github"><a href="#如何部署到Github" class="headerlink" title="如何部署到Github"></a>如何部署到Github</h2><p><strong>以下分两部讲述：部署到Github和通过Cloudflare实现访问（Cloudflare可选）</strong></p>
 <h3 id="部署到Github"><a href="#部署到Github" class="headerlink" title="部署到Github"></a>部署到Github</h3><p>首先你需要在Github上创建一个仓库，登录Github网站，在右上角选择加号，选择 New Repository。<br>点击New Repository后如何填写信息如图所示。或者库<br><figure class="image-caption"><img  
                      lazyload
@@ -464,7 +420,7 @@
                      data-src="https://i.p-i.vip/46/20241030-6721666c66412.png"
                      
                 ><br>4.稍等过后，提示 活动 的情况下，浏览器地址栏输入域名，即可访问。证实博客部署成功。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>有个叫Amin Eftegarie的老哥说过：<a class="link"   href="https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/" >Every person on the planet should have their own website<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。<br>这哥们的中心思想大概是：把站点上的这些东西扔到互联网档案馆上，能被安全的保存起来。供子孙后代们研究他们的祖先。<br>让我想起来有位UP主，是Warma曾经也说过自己做视频也是为了留下些什么。<br>可能我建网站的也一样吧。别那天突然寄了，钱没留下，除了信用卡账单还能留下点别的。<br>当然我除了这个原因，还有一个：<br><del>我在这里骂人不会被删帖子。<br>每个网站可能都是一个吉吉国，每位站长可能都是一个侯国玉</del></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>有个叫Amin Eftegarie的老哥说过：<a class="link"   href="https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/" >Every person on the planet should have their own website<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。<br>这哥们的中心思想大概是：把站点上的这些东西扔到互联网档案馆上，能被安全的保存起来。供子孙后代们研究他们的祖先。<br>让我想起来有位UP主，是Warma曾经也说过自己做视频也是为了留下些什么。<br>可能我建网站的也一样吧。别那天突然寄了，钱没留下，除了信用卡账单还能留下点别的。<br>当然我除了这个原因，还有一个：<br><del class="mask">我在这里骂人不会被删帖子。<br>每个网站可能都是一个吉吉国，每位站长可能都是一个侯国玉</del></p>
 ]]></content>
       <categories>
         <category>技术</category>
@@ -472,6 +428,50 @@
       <tags>
         <tag>hexo</tag>
         <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暮色森林录完了</title>
+    <url>/twilight-forest-ended.html</url>
+    <content><![CDATA[<p>结束了？结束了……也许。<br>还没呢。</p>
+<span id="more"></span>
+
+
+<p>结束的只能是可能会有的众多MC生存实况中的一个，而不是MC之旅。<br>其实这个系列更多的是对曾经的一种怀念罢了，毕竟第七期的爱奇艺<span class="mask">（你没听错，我还有这条赛道）</span>评论区底下也有人想起了当年敖厂长的暮色之光。<figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://s21.ax1x.com/2024/08/23/pAiv3IU.png"
+                      alt="想起来敖厂长的暮色森林（暮色之光）了"
+                ><figcaption>想起来敖厂长的暮色森林（暮色之光）了</figcaption></figure><br>那个视频的发布时间，是2015年6月23日。<br>我了解到这个模组并且第一看这个模组的时候比这晚一些，2020年那个最难熬的时刻在爱奇艺上看的搬运。那个UP的名字，是<a class="link"   href="https://space.bilibili.com/384032870" >叶子解说世界<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。<br>比起伤今怀古更多的是告诉过去的那个少年，你也可以去那样做。<br>最后的结果不得而知，但是谁知道呢？<br>可能会在十几年后正中眉心吧。<br>但MC生存之旅？停不下来的。</p>
+<p>在这里把我在第十期结尾的那段话补上。</p>
+
+  <div class="note-large cyan">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>第十期结尾的话</p>
+
+    </div>
+    <div class="notel-content">
+      <p>写在后面：<br><br>之前在友商的视频评论下看见”想起来XXX的暮色森林了好怀念啊”的话，我还能想起来，当时认识这个模组的时候还是2020年最难熬的那段时候。</p>
+<p><br>那个时候我的设备甚至连战神OPPO A5都算不上，还是在爱某艺上看的搬运</p>
+<p><br>可能那个时候我意识到我也可以这么做一支视频</p>
+<p><br>在那个最难熬的春天，我投稿了第一支破千播放的游戏视频</p>
+<p><br>2020年投稿了第一支MC视频，去年8月10日正式开始做系列的MC生存实况，再到今年暑期的重新更新。</p>
+<p><br>我见过沟槽的一个月50播放的视频，也见过随机一个激灵能破四千播放的</p>
+<p><br>剪辑能力不足可以练，播放量不够可以慢慢攒</p>
+<p><br>毕竟生命就像一盒巧克力，你永远不知道下一颗是什么味道的。</p>
+<p><br>可能有些事是四年前的那个小学生想不到的，也可能是现在这个UP想不到的</p>
+<p><br>感谢你能够看到这里。</p>
+
+    </div>
+  </div>
+
+
+]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>Minecraft</tag>
       </tags>
   </entry>
 </search>
