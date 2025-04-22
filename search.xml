@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2024年终总结：这一杯，敬不完美的昨天</title>
+    <url>/2024.html</url>
+    <content><![CDATA[<p>逝者已作古，来者仍可追。</p>
+<span id="more"></span>
+<p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del class="mask">祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>退学当UP主？我劝你善良。</title>
+    <url>/out-of-school-to-uploaders.html</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>视频</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
@@ -17,14 +34,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>2024年终总结：这一杯，敬不完美的昨天</title>
-    <url>/2024.html</url>
-    <content><![CDATA[<p>逝者已作古，来者仍可追。</p>
-<span id="more"></span>
-<p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del class="mask">祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p>
 ]]></content>
   </entry>
   <entry>
@@ -234,15 +243,6 @@
       <tags>
         <tag>hexo</tag>
         <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>退学当UP主？我劝你善良。</title>
-    <url>/out-of-school-to-uploaders.html</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>视频</tag>
       </tags>
   </entry>
 </search>
