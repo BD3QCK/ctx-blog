@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chatongxue.top/2024.html</loc>
+    
+    <lastmod>2025-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chatongxue.top/qsl/index.html</loc>
     
     <lastmod>2025-04-22</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://blog.chatongxue.top/twilight-forest-ended.html</loc>
     
     <lastmod>2025-04-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chatongxue.top/2024.html</loc>
-    
-    <lastmod>2025-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -137,13 +137,6 @@
 
   
   <url>
-    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
-    <lastmod>2025-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chatongxue.top/tags/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2025-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,17 +164,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
+    <lastmod>2025-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2025-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2025-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
