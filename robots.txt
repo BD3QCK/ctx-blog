@@ -1,3 +1,5 @@
+Sitemap: https://blog.chatongxue.top/sitemap.xml
+
 User-agent: Yisouspider
 Allow: /
 
