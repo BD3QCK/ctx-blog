@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chatongxue.top/aplayer/README.html</loc>
+    
+    <lastmod>2025-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chatongxue.top/aplayer/package.json</loc>
+    
+    <lastmod>2025-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.chatongxue.top/2024.html</loc>
     
     <lastmod>2025-05-10</lastmod>
@@ -151,13 +169,6 @@
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
-    <lastmod>2025-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chatongxue.top/tags/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,6 +177,13 @@
   
   <url>
     <loc>https://blog.chatongxue.top/tags/%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
     <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
