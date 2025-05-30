@@ -6,7 +6,7 @@
   <link href="https://blog.chatongxue.top/atom.xml" rel="self"/>
   
   <link href="https://blog.chatongxue.top/"/>
-  <updated>2025-05-30T17:34:56.442Z</updated>
+  <updated>2025-05-30T17:46:28.884Z</updated>
   <id>https://blog.chatongxue.top/</id>
   
   <author>
@@ -21,13 +21,15 @@
     <link href="https://blog.chatongxue.top/2024.html"/>
     <id>https://blog.chatongxue.top/2024.html</id>
     <published>2025-01-04T13:37:02.000Z</published>
-    <updated>2025-05-30T17:34:56.442Z</updated>
+    <updated>2025-05-30T17:46:28.884Z</updated>
     
-    <content type="html"><![CDATA[<p>逝者已作古，来者仍可追。</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=966819895&bvid=BV1Hp4y1m7Vp&cid=1419875123&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><span id="more"></span>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年~~祭~~纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。<h2 id="本站：稳中向好"><a href="#本站：稳中向好" class="headerlink" title="本站：稳中向好"></a>本站：稳中向好</h2><p>首先是本站，从Typecho升级到了Hexo静态页面的打法，并且购入 chatongxue.top 的顶级域名，避免了可能忘缴服务器费导致全库消失以及二级域名跑路访问不可达的bug。<br>其次是对原有的Typecho博客改为 typecho.chatongxue.top 作为赛博避难所，毕竟我们永远不知道CFPages是不是有寄了的那一天。</p>]]></content>
+    <content type="html"><![CDATA[<p>逝者已作古，来者仍可追。</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=966819895&bvid=BV1Hp4y1m7Vp&cid=1419875123&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><span id="more"></span><p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del>祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p><h2 id="本站：稳中向好"><a href="#本站：稳中向好" class="headerlink" title="本站：稳中向好"></a>本站：稳中向好</h2><p>首先是本站，从Typecho升级到了Hexo静态页面的打法，并且购入 chatongxue.top 的顶级域名，避免了可能忘缴服务器费导致全库消失以及二级域名跑路访问不可达的bug。<br>其次是对原有的Typecho博客改为 typecho.chatongxue.top 作为赛博避难所，毕竟我们永远不知道CFPages是不是有寄了的那一天。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;逝者已作古，来者仍可追。&lt;/p&gt;
-&lt;iframe src=&quot;//player.bilibili.com/player.html?isOutside=true&amp;aid=966819895&amp;bvid=BV1Hp4y1m7Vp&amp;cid=1419875123&amp;p=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;</summary>
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;
+    &lt;iframe src=&quot;//player.bilibili.com/player.html?isOutside=true&amp;aid=966819895&amp;bvid=BV1Hp4y1m7Vp&amp;cid=1419875123&amp;p=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary>
     
     
     
