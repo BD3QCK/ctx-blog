@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/hello-world.html"/>
+    <url>/hello-world.html</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>测试OPPO Sans 4.0配置<br><del>好像没成功？</del></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2024年终总结：这一杯，敬不完美的昨天</title>
+    <link href="/2024.html"/>
+    <url>/2024.html</url>
+    
+    <content type="html"><![CDATA[<p>别回头，向前走，前路有光。</p><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=966819895&bvid=BV1Hp4y1m7Vp&cid=1419875123&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del>祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p><h2 id="本站：稳中向好"><a href="#本站：稳中向好" class="headerlink" title="本站：稳中向好"></a>本站：稳中向好</h2><p>首先是本站，从Typecho升级到了Hexo静态页面的打法，并且购入 chatongxue.top 的顶级域名，避免了可能忘缴服务器费导致全库消失以及二级域名跑路访问不可达的bug。<br>其次是对原有的Typecho博客改为 typecho.chatongxue.top 作为赛博避难所，毕竟我们永远不知道CFPages是不是有寄了的那一天。<br>总之就是：比起一路走来的WordPress+不知名虚拟主机厂商时代，我们的服务比以往更加稳定了。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>退学当UP主？我劝你善良。</title>
+    <link href="/out-of-school-to-uploaders.html"/>
+    <url>/out-of-school-to-uploaders.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>杂谈</tag>
+      
+      <tag>视频</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo建站并部署：从入门到转生</title>
+    <link href="/site-build.html"/>
+    <url>/site-build.html</url>
+    
+    <content type="html"><![CDATA[<p>你已经迷上Hexo，无法回头了…</p><span id="more"></span><h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>之前的这个网站是用Typecho搭建的。Typecho作为一个动态网站框架，需要服务器、虚拟主机部署。<br>虚拟主机用的是<a href="https://www.vpsor.cn/?userCode=sh26001">硅云</a>家的<a href="https://www.vpsor.cn/doc/article/5ee97562afec2f554c29cff5">博客主扶持计划</a>，一个月5块钱。<br>但是给的是共享IP，这个段在8月天天吃核武器。<br><img src="https://img.chatongxue.top/img/2024-10-29-283bb4db55f1cb2cb28845451423f413.webp" alt="八月好几次同IP段被打"><br>所以…该换的就换了吧。<br>还有就是…<br>硅云你是一个特别好的宝宝qwq</p><h2 id="为什么是Hexo"><a href="#为什么是Hexo" class="headerlink" title="为什么是Hexo"></a>为什么是Hexo</h2><p>很简单，因为我<del>蔡</del>菜。<br>我也想用Hugo，但是choco安装命令我确实加上了-extended。<br>您猜怎么着，装到本地的就不是Extended版，那叫一个那你丫的。</p><h2 id="怎么装的"><a href="#怎么装的" class="headerlink" title="怎么装的"></a>怎么装的</h2><h3 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h3><p>先在电脑上安装 Git 和 Node.js 。</p><p>Git 官网: <a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a><br>Node.js 官网: <a href="https://nodejs.org/zh-cn">https://nodejs.org/zh-cn</a></p><p>安装 Git 和 Node.js 的时候一直下一步就行了。</p><p>由于国内特有的 Git 下载速度慢，你可以去镜像站上下载。比如清华大学TUNA协会的镜像站: <a href="https://mirrors.tuna.tsinghua.edu.cn/">https://mirrors.tuna.tsinghua.edu.cn</a> ,在<strong>获取下载链接——应用软件</strong>里找到适合你系统的Git。</p><p>感谢清华大学TUNA协会的各位，终于不用让我骂中国电信了。</p><h3 id="配置-Git"><a href="#配置-Git" class="headerlink" title="配置 Git"></a>配置 Git</h3><p>由于后续需要将博客利用Github部署，为的是让他人能够看到，需要配置Github。</p><h4 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h4><p><strong>请先在电脑上下载Steam++工具箱并且如图配置之后使用。</strong><br><strong>有能力的请使用梯子</strong><br><img src="https://i.p-i.vip/46/20241029-6720dfe4df1dd.png" alt="平台加速勾选Github(最好全选)，加速设置建议选择System"><br>（注：System模式下最好用完及时关闭，否则重启系统后访问网页时<strong>容易出现代理地址有误导致无法访问网页</strong>。此时请转到设置——网络和Internet——代理——手动设置代理中关闭“使用代理服务器”）</p><p>1.登录<a href="https://github.com/">Github官网</a>，选择右上角的Sign Up。<br>2.依次填入电子邮箱地址，密码和用户名。<br>3.进入电子邮箱，找到发送人为 Github的电子邮件，并且将邮件里的验证码填入打开的Github网址。<br>4.在接下来的Sign in Github 窗口中输入刚刚设置的电子邮件地址和密码，点击 Sign In 登录。<br>5.桌面右键选择Git Bash Here，输入以下代码：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">git config --global user.name &quot;你设置的Github用户名&quot;<br>git config --global user.name 你设置的Github电子邮箱地址<br></code></pre></td></tr></table></figure><p>6.生成SSH密钥文件</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">ssh-keygen -t rsa -C &quot;Github电子邮箱地址&quot;<br></code></pre></td></tr></table></figure><p>生成好的密钥目录一般是 **C:\用户\电脑用户名.ssh\id_rsa.pub。<br>右键点击——使用记事本打开——复制id_rsa.pub里的所有内容。<br>7.配置Github上的密钥<br>Github点击右上角头像，点击Settings——SSH and GPG Keys——New SSH Key，Title部分随便填，Key部分把刚复制上的 <strong>id_rsa.pub</strong> 里的部分粘贴上去，点击Add SSH Key。<br><img src="https://i.p-i.vip/46/20241030-67212a03ec7ec.png" alt="如图所示"></p><h3 id="可选：配置淘宝镜像"><a href="#可选：配置淘宝镜像" class="headerlink" title="可选：配置淘宝镜像"></a>可选：配置淘宝镜像</h3><p>由于国内特有的下载环境慢，切换至国内的镜像可以加快之后的下载速度。<br>这里使用淘宝的镜像，<del>马云你听我说</del></p><p>桌面右键，选择 <strong>Git Bash Here</strong>，然后输入：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">npm config set registry https://registry.nmpmirror.com<br></code></pre></td></tr></table></figure><h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>执行上述步骤后，桌面右键选择Git Bash Here，执行以下命令。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">npm i hexo-cil -g<br></code></pre></td></tr></table></figure><p>然后选择一个文件夹建设博客，并且移动到该文件夹</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">cd 文件夹路径<br></code></pre></td></tr></table></figure><p>执行以下命令来初始化Hexo</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo init<br></code></pre></td></tr></table></figure><p>执行后显示应该如下所示。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs git">INFO  Cloning hexo-starter https://github.com/hexojs/hexo-starter.git<br>INFO  Install dependencies<br>INFO  Start blogging with Hexo!<br></code></pre></td></tr></table></figure><p>然后执行 npm install</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs git">$ npm install<br><br>added 1 package in 820ms<br><br>23 packages are looking for funding<br>  run `npm fund` for details<br></code></pre></td></tr></table></figure><p>此时一个正常的流程如下图右半部分所示，测试文件夹的文件结构如左图所示的话，恭喜你，你的Hexo站点建立成功力！<br><img src="https://i.p-i.vip/46/20241030-67212e64b35b9.png" alt="左部分为站点结构，右半部分为流程"></p><h2 id="配置主题"><a href="#配置主题" class="headerlink" title="配置主题"></a>配置主题</h2><p>建立成功后，就可以执行 <strong>hexo s</strong> 查看你的站点了。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs git">$ hexo s<br>INFO  Validating config<br>INFO  Start processing<br>INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.<br></code></pre></td></tr></table></figure><p>其中的 <strong>at <a href="http://localhost:4000/">http://localhost:4000</a></strong> 意味该站点现在运行在 localhost:4000 ，在浏览器地址栏输入这串地址就可以看到你网站的效果了。<br><img src="https://i.p-i.vip/46/20241030-672131ef3b2d5.png" alt="默认主题效果"><br>挺好的，就是多少有点欣赏不来。</p><h3 id="如何选择主题"><a href="#如何选择主题" class="headerlink" title="如何选择主题"></a>如何选择主题</h3><p>这个属于见仁见智的选项，网上搜索 hexo主题推荐 或者去Github里搜 Hexo theme就有一大堆。通常主题的Github仓库里的README文档里都提供了预览网址，点击即可查看这款主题的实际效果。<br>这里可以挑几个我见过的不错的，但是还请注意：<strong>只有适合你的才是最好的</strong></p><ul><li>Fluid: 基于Material Design, MD爱好者落泪。<br><a href="https://hexo.fluid-dev.com/">Fluid预览页</a> | <a href="https://hexo.fluid-dev.com/">Fluid主题仓库</a></li><li>Butterfly: Star数量与Fluid不相上下，曾经使用过移植到Typecho版本，感觉不错。美化和魔改教程很多。<br> <a href="https://butterfly.js.org/">Butterfly预览页</a> | <a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly主题仓库</a></li><li>NexT: 有点太简洁了，个人不太习惯，喜欢简洁的可以去试一试。<br> <a href="httpps://theme-next.js.org">Next预览页</a> | <a href="https://github.com/next-theme/hexo-theme-next">NexT主题仓库</a></li><li>Stellar: 主题最高支持到Hexo 7.0.0，但是已经Hexo 7.3.0了。<br> 好在网上有教程教你如何安装指定版本的Hexo: <a href="http://www.blog.lekshome.top/2024/03/07/hexo-an-zhuang-zhi-ding-ban-ben/">Hexo安装指定版本 - Lek的小站</a><br> <a href="https://xaoxuu.com/wiki/stellar/">Stellar预览页</a> | <a href="https://github.com/xaoxuu/hexo-theme-stellar">Stellar主题仓库</a></li><li>Anzhiyu (安知鱼) : 功能最多，界面最好看。特别是演示站的About界面，*的绝了。<br> 可能对最新版Hexo的支持也不是太好？<br> <a href="https://blog.anheyu.com/">安知鱼演示站</a> | <a href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu">安知鱼主题仓库</a></li><li>Redefine: 本站目前在用的主题，简约大气。<br> <a href="https://redefine.ohevan.com/">Redefine演示站点</a> | <a href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine主题仓库</a></li></ul><h3 id="如何配置主题"><a href="#如何配置主题" class="headerlink" title="如何配置主题"></a>如何配置主题</h3><p>各主题Github仓库内或者在演示站点上都标明了主题文档的网址，点击即可跳转。<br>下面这张图片给大家挑两个典型。<br><img src="https://i.p-i.vip/46/20241030-67214379082ea.png" alt="eg. Fluid and Anzhiyu"><br>按照文档来的一步一步走，一般不会出错。</p><p>主题的配置需要更改主题文档内指定的配置文件和站点配置，由于都以.yml结尾，且YML配置对于行缩进极为敏感，所以我<strong>强烈建议你下载<a href="https://code.visualstudio.com/">Visual Studio Code</a></strong>，并且用Visual Studio Code打开.yml文件进行修改配置文件的操作。写文章也的时候会用到的。</p><h3 id="如何写文章"><a href="#如何写文章" class="headerlink" title="如何写文章"></a>如何写文章</h3><p>确定你在你这个站点的目录内，如果不确定，请在 Git 里 执行如下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">cd 站点文件夹的路径<br></code></pre></td></tr></table></figure><p>接着执行以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo new 你文章的名字<br></code></pre></td></tr></table></figure><p>然后打开你站点文件夹里的 <strong>_post文件夹</strong>，如果不出意外，你会看到一个 <strong>你文章的名字.md</strong>的文件，这就是你的文章。</p><p>文章使用Markdown格式进行编写，同时兼容HTML。不了解Markdown语法的Sir请到this way:<a href="https://markdown.com.cn/">Markdown教程</a>。</p><p>主题可能会给文章提供了一些代码块，可以让你在写作的时候调用，让文章看起来更加丰富多彩。或者是需要你在编辑文章时需要往开头被 — 包围起来的部分添加一些信息，来显示文章封面等，关于这部分请自行查阅主题文档，一般写的都很清楚。</p><p>Markdown文章并不是所见即所得的，但是你可以通过安装其他的Markdown编辑器，比如Typora，或者是Visual Code Studio搭配插件（比如Markdown Preview Enhanced）做到对你的文章所见即所得，就像我现在这样：<br><img src="https://i.p-i.vip/46/20241030-67214743cf89a.png" alt="YWYSIWYG by Using VSC and Markdown Preview Enhanced"></p><p>什么？你问我为什么推荐Typora不用Typora? 因为Typora要钱，89元三台设备免费升级，但是有15天试用期。虽然要钱但是不可否认的是，Typora把Markdown编辑这个部分真的做的简易了很多。比起敲代码更像是用Word写文章，你可以先在试用期15天过后，再决定该不该入手这个软件。<br>Typora 官方中文站点：<a href="https://typoraio.cn/">https://typoraio.cn/</a><br><del>请注意，主播既没收Typora的钱也没收数码荔枝的钱，看到了能不能给主播爆点米</del></p><h2 id="如何部署到Github"><a href="#如何部署到Github" class="headerlink" title="如何部署到Github"></a>如何部署到Github</h2><p><strong>以下分两部讲述：部署到Github和通过Cloudflare实现访问（Cloudflare可选）</strong></p><h3 id="部署到Github"><a href="#部署到Github" class="headerlink" title="部署到Github"></a>部署到Github</h3><p>首先你需要在Github上创建一个仓库，登录Github网站，在右上角选择加号，选择 New Repository。<br>点击New Repository后如何填写信息如图所示。或者库<br><img src="https://i.p-i.vip/46/20241030-672150feeb1e1.png" alt="dadada.png"><br>点击Create Repository后，如图所示。<br><img src="https://i.p-i.vip/46/20241030-67214dfd1364e.png" alt="点击右侧图标复制这串链接"><br>打开你站点文件夹里的 <strong>_config.yml</strong>，在最末尾# Deployment部分替换成以下代码：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># Deployment</span><br><span class="hljs-comment">## Docs: https://hexo.io/docs/one-command-deployment</span><br><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repository:</span> <span class="hljs-string">这里粘贴你上一步复制的链接</span><br>  <span class="hljs-attr">branch:</span> <span class="hljs-string">main</span><br></code></pre></td></tr></table></figure><p>保存后返回站点文件夹，<strong>Shift+右键选择Git Bash Here（或在桌面右键 Git Bash Here后  cd 站点文件夹路径）</strong>，执行以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs git">hexo cl<br>hexo g<br>hexo d<br></code></pre></td></tr></table></figure><p>此时等待代码运行完成之后，打开Github，选择你新建的库。就会看到文件已经在仓库里了。</p><p>然后在页面中选择Settings——Pages，如图，Source部分选择Deploy from a Branch, Branch 选择 main &#x2F;(root)，点击Save后稍作等候。<br><img src="https://i.p-i.vip/46/20241030-672156fb7c55e.png"></p><p>然后直接访问 https:&#x2F;&#x2F;你的Github用户名.github.io，即可成功访问！</p><h4 id="（可选）绑定自定义域名"><a href="#（可选）绑定自定义域名" class="headerlink" title="（可选）绑定自定义域名"></a>（可选）绑定自定义域名</h4><p>由于Github在国内开彩票一般的访问速度，绑定自己域名一定程度上能缓解一下。<br>域名可以通过硅云，阿里云，Namesilo这些平台花钱购买，也可以去找网上的所谓免费二级域名，比如eu.org和国内一群知名不知名的。但请注意：<strong>免费二级域名有一定跑路风险，请慎重选择！</strong></p><p>还是在刚刚的Pages界面，但是选择Custom Domain部分。在文字框里输入你的域名，点击Save，等待过后你会发现：显示域名 are improperly configured。<br><img src="/" alt="噔 噔 咚"><br>这是因为我们还没设置好域名指向，接下来请转到您域名注册商的控制面板那里。</p><p>根据<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site">Github文档</a>：</p><ul><li>如果您的域名是顶级域名 (eg. 你的域名.后缀)，请添加以下A记录：<br> 185.199.108.153<br> 185.199.109.153<br> 185.199.110.153<br> 185.199.111.153</li><li>如果是二级甚至多级域名 (eg. xxx.你的域名.后缀 )，请添加以下 CNAME 记录：<br> xxx  你的Github用户名.github.io<br> 然后返回Pages页面，多刷新几次，直到输入网站的地址显示DNS Check Successful就成功了。</li></ul><h3 id="（可选）用Cloudflare-Pages-实现访问"><a href="#（可选）用Cloudflare-Pages-实现访问" class="headerlink" title="（可选）用Cloudflare Pages 实现访问"></a>（可选）用Cloudflare Pages 实现访问</h3><p>这也是主播目前在用的方案，毕竟Github抽风不是一天两天了。<br>虽说Cloudflare也比较癫就是了…<br><strong>选择Cloudflare方式，Github仓库名随便填，你能认得出来就好。</strong><br>1.注册并登录Cloudflare账号，在左侧选择Workers 和 Pages，再点击创建。<br><img src="https://i.p-i.vip/46/20241030-6721608b9d399.png" alt="第一步"><br>2.选择Pages，点击连接到Git。<br>3.如图，选择Github，选择你的账号（如果没有请点击添加账户）。选择你站点的Github库，确认无误后点击开始设置。<br><img src="https://i.p-i.vip/46/20241030-6721636059b6d.png" alt="这一张图加了多少私货"><br>4.如图，按图示填完后点击保存并部署<br><img src="https://i.p-i.vip/46/20241030-672164ed75b2b.png"><br>5.等待后，浏览器地址栏输入 项目名称.pages.dev即可访问</p><h4 id="（可选）Cloudflare-Pages绑定自定义域名"><a href="#（可选）Cloudflare-Pages绑定自定义域名" class="headerlink" title="（可选）Cloudflare Pages绑定自定义域名"></a>（可选）Cloudflare Pages绑定自定义域名</h4><p>1.点击你站点的项目名称，选择自定义域。<br>2.输入域名，点击继续。<br>3.按提示在域名注册商管理面板处添加解析记录。<br>如果您的域名托管在Cloudflare，则直接点击激活域即可，其他注册商请配置好解析之后再点击激活域。<br><img src="https://i.p-i.vip/46/20241030-6721666c66412.png"><br>4.稍等过后，提示 活动 的情况下，浏览器地址栏输入域名，即可访问。证实博客部署成功。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>有个叫Amin Eftegarie的老哥说过：<a href="https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/">Every person on the planet should have their own website</a>。<br>这哥们的中心思想大概是：把站点上的这些东西扔到互联网档案馆上，能被安全的保存起来。供子孙后代们研究他们的祖先。<br>让我想起来有位UP主，是Warma曾经也说过自己做视频也是为了留下些什么。<br>可能我建网站的也一样吧。别那天突然寄了，钱没留下，除了信用卡账单还能留下点别的。<br>当然我除了这个原因，还有一个：<br><del>我在这里骂人不会被删帖子。<br>每个网站可能都是一个吉吉国，每位站长可能都是一个侯国玉</del></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+      <tag>建站</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>暮色森林录完了</title>
+    <link href="/twilight-forest-ended.html"/>
+    <url>/twilight-forest-ended.html</url>
+    
+    <content type="html"><![CDATA[<p>结束了？结束了……也许。<br>还没呢。</p><span id="more"></span><p>结束的只能是可能会有的众多MC生存实况中的一个，而不是MC之旅。<br>其实这个系列更多的是对曾经的一种怀念罢了，毕竟第七期的爱奇艺<span class="mask">（你没听错，我还有这条赛道）</span>评论区底下也有人想起了当年敖厂长的暮色之光。<img src="https://s21.ax1x.com/2024/08/23/pAiv3IU.png" alt="想起来敖厂长的暮色森林（暮色之光）了"><br>那个视频的发布时间，是2015年6月23日。<br>我了解到这个模组并且第一看这个模组的时候比这晚一些，2020年那个最难熬的时刻在爱奇艺上看的搬运。那个UP的名字，是<a href="https://space.bilibili.com/384032870">叶子解说世界</a>。<br>比起伤今怀古更多的是告诉过去的那个少年，你也可以去那样做。<br>最后的结果不得而知，但是谁知道呢？<br>可能会在十几年后正中眉心吧。<br>但MC生存之旅？停不下来的。</p><p>在这里把我在第十期结尾的那段话补上。</p><p>写在后面：<br><br>之前在友商的视频评论下看见”想起来XXX的暮色森林了好怀念啊”的话，我还能想起来，当时认识这个模组的时候还是2020年最难熬的那段时候。</p><p><br>那个时候我的设备甚至连战神OPPO A5都算不上，还是在爱某艺上看的搬运</p><p><br>可能那个时候我意识到我也可以这么做一支视频</p><p><br>在那个最难熬的春天，我投稿了第一支破千播放的游戏视频</p><p><br>2020年投稿了第一支MC视频，去年8月10日正式开始做系列的MC生存实况，再到今年暑期的重新更新。</p><p><br>我见过沟槽的一个月50播放的视频，也见过随机一个激灵能破四千播放的</p><p><br>剪辑能力不足可以练，播放量不够可以慢慢攒</p><p><br>毕竟生命就像一盒巧克力，你永远不知道下一颗是什么味道的。</p><p><br>可能有些事是四年前的那个小学生想不到的，也可能是现在这个UP想不到的</p><p><br>感谢你能够看到这里。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>工作</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Minecraft</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
