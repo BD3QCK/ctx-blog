@@ -13,5 +13,3 @@ hexo.extend.injector.register("body_end",`<script src="${siteRoot}js/scrollAnima
 hexo.extend.injector.register("body_end",`<script src="${siteRoot}js/time-insert.js"></script>`);
 
 hexo.extend.injector.register("body_end",`<script src="${siteRoot}js/time.js"></script>`);
-
-</script>
